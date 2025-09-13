@@ -8,8 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to Yuzhe Lab
+        content: Take a look at what we are working on...
+        
         align: center
         background:
           image:
@@ -19,7 +20,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'Share your knowledge with the lab and explore exciting new topics together!'
         align: left
         background:
           image:
@@ -51,4 +52,19 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
+  - block: markdown
+    content:
+      title: What We Are Working On
+      text: |
+        Since Galileo first proposed the idea of material strength limitations, humanity has spent centuries developing theories of material damage. Yet to this day, one critical question remains unanswered: **How does mechanics lead to brain damage (injury)?** This gap in knowledge is unacceptable.  
+
+        To address it, The Yuzhe Lab focuses on four key directions:  
+        - Uncovering the mechanical mechanisms of brain injury  
+        - Building accurate brain injury models  
+        - Developing high-precision brain injury monitoring devices  
+        - Designing advanced protective equipment against brain injury  
+
+        🚀 Join us as we push the boundaries of science and technology!
+
 ---
