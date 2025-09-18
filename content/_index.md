@@ -13,8 +13,29 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Yuzhe Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <p>
+          <span style="font-size: 28px;">
+          🧠<b>Yuzhe Lab</b>专注于脑损伤力学研究，探索如何在冲击中更好地监测和保护大脑。
+          </span>
+        <br>
+          <span style="font-size: 20px;">
+          🔬The <b>Yuzhe Lab</b> explores the mechanics of brain injury and designs better ways to monitor, model, and protect the brain to advance human health.
+          </span>
+        </p>
+
+  - block: markdown
+    content:
+      title: "我们的研究方向"
+      text: |
+        自伽利略首次提出材料强度极限的概念以来，人类已花费数百年发展材料损伤理论。然而，至今仍有一个关键问题尚未解答：**力学是如何导致脑损伤（受伤）的？** 这一知识空白是不可接受的。
+
+        💡 为了解决这一问题，Yuzhe Lab 重点关注四个方向：  
+        - 揭示脑损伤的力学机制  
+        - 构建精确的脑损伤模型  
+        - 开发高精度脑损伤监测设备  
+        - 设计先进的脑损伤防护装备  
+
+        🚀 加入我们，一起推动科学与技术的前沿！
 
   - block: markdown
     content:
@@ -30,23 +51,9 @@ sections:
 
         🚀 Join us as we push the boundaries of science and technology!
 
-  - block: markdown
-    content:
-      title: "我们的研究方向"
-      text: |
-        自伽利略首次提出材料强度极限的概念以来，人类已花费数百年发展材料损伤理论。然而，至今仍有一个关键问题尚未解答：**力学是如何导致脑损伤（受伤）的？** 这一知识空白是不可接受的。
-
-        💡 为了解决这一问题，Yuzhe Lab 重点关注四个方向：  
-        - 揭示脑损伤的力学机制  
-        - 构建精确的脑损伤模型  
-        - 开发高精度脑损伤监测设备  
-        - 设计先进的脑损伤防护装备  
-
-        🚀 加入我们，一起推动科学与技术的前沿！
-  
   - block: collection
     content:
-      title: Latest News
+      title: 课题组新闻 | Latest News
       subtitle:
       text:
       count: 5
@@ -85,7 +92,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: 最新文章 | Latest Preprints
       text: ""
       count: 5
       filters:
