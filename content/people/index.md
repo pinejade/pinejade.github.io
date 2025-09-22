@@ -14,9 +14,10 @@ sections:
           - Principal Investigators | 课题组负责人
           - Researchers | 研究人员
           - Grad Students | 研究生
+          - Undergraduate Students | 本科生
           - Administration | 行政人员
           - Visitors | 访问学者
-          - Alumni | 校友
+          - Alumni | 毕业生
       sort_by: Params.last_name
       sort_ascending: true
     design:
