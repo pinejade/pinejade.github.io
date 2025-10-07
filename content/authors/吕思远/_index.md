@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 邢凯文
+title: 吕思远
 
 # Full name (for SEO)
-first_name: 凯文
-last_name: 邢
+first_name: 思远
+last_name: 吕
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025届本科生
+role: 2024级本科生
 
 # Organizations/Affiliations
 organizations:
-  - name: KTH Royal Institute of Technology
+  - name: Beihang University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,10 @@ organizations:
 # social:
 #   - icon: envelope
 #     icon_pack: fas
-#     link: "email.txt"
+#     link: 'ljxxx@buaa.edu.cn'
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/Thethumbtack
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni | 毕业生
+  - Undergraduate Students | 本科生
 ---
 
 <style>
@@ -94,30 +97,28 @@ user_groups:
 <div id="cn" class="tabcontent" style="display:block;">
 
   <p>
-    邢凯文现在是一名硕士生。他对人工智能，生物力学和神经科学有很强的兴趣。本科阶段，在刘雨喆教授的指导下，他研究了啄木鸟啄树过程中抵抗创伤性脑损伤的机制。此外，他开发了一智能头盔系统用于实时监测创伤性脑损伤，并提出了基于个体形态差异和冲击因子预测大脑冲击响应的算法。<br>
-    目前，他就读于瑞典皇家理工学院，攻读硕士项目“创新科技驱动健康生活”，接续致力于通过前沿科技改善人类健康与生活质量。
+    吕思远，北京航空航天大学生物与医学工程学院本科生，现于本实验室从事运动员大脑损伤相关工作，负责运动员头部冲击实验相关软硬件事务。
   </p>
 
   <h3>兴趣</h3>
   <ul>
-    <li>人工智能</li>
-    <li>计算生物力学</li>
-    <li>神经科学</li>
+    <li>运动损伤研究</li>
+    <li>篮球</li>
+    <li>骑行</li>
+    <li>摄影</li>
+    <li>文学</li>
   </ul>
 
   <h3>教育经历</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2021至2025<br>
+  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2024至今<br>
   <span style="color:gray;">北京航空航天大学</span></p>
-  <p><i class="fas fa-graduation-cap"></i> 硕士研究生，创新科技驱动健康生活，2025至今<br>
-  <span style="color:gray;">瑞典皇家理工学院</span></p>
 </div>
 
-  <h3>联系方式</h3>
+<h3>联系方式</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:kxing@kth.se">kxing@kth.se</a><br>
-    <i class="fas fa-envelope"></i> <a href="mailto:kevinxing02@gmail.com">kevinxing02@gmail.com</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:lvsiyuan@buaa.edu.cn">lvsiyuan@buaa.edu.cn</a>
   </p>
 
 </div>
@@ -126,29 +127,28 @@ user_groups:
 <!-- 英文版本 -->
 <div id="en" class="tabcontent" style="display:none;">
   <p>
-    Kaiwen Xing is currently a Master's student with strong interests in Artificial Intelligence, Biomechanics, and Neuroscience. During his bachelor's studies under the supervision of Prof. Yuzhe Liu, he investigated the self-resistance mechanisms of woodpecker pecking, revealing natural strategies for protection against Traumatic Brain Injury (TBI). He also developed an intelligent helmet system capable of providing real-time TBI monitoring functions, and proposed an algorithm to predict brain impact responses based on individual morphological differences and impact factors.<br><br>
-    He is now pursuing his Master's degree at KTH Royal Institute of Technology in the Innovative Technology for Healthy Living program, continuing his journey to enhance human health and quality of life.
+    Siyuan Lv, an undergraduate student from the School of Biological and Medical Engineering at Beihang University, is currently working in this laboratory on research related to brain injuries in athletes. He is responsible for the software and hardware affairs related to the head impact experiments on athletes.
   </p>
 
   <h3>Interests</h3>
   <ul>
-    <li>Artificial Intelligence</li>
-    <li>Computational Biomechanics</li>
-    <li>Neuroscience</li>
+    <li>Research on Sports Impact Injuries</li>
+    <li>Basketball</li>
+    <li>Cycling</li>
+    <li>Photography</li>
+    <li>Literature</li>
   </ul>
 
-<h3>Education</h3>
+  <h3>Education</h3>
+
 <div>
-  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2021-2025<br>
+  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2023-Present<br>
   <span style="color:gray;">Beihang University</span></p>
-  <p><i class="fas fa-graduation-cap"></i> MSc in Innovative Technology for Healthy Living, 2025-Present<br>
-  <span style="color:gray;">KTH Royal Institute of Technology</span></p>
 </div>
 
 <h3>Contact</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:kxing@kth.se">kxing@kth.se</a><br>
-    <i class="fas fa-envelope"></i> <a href="mailto:kevinxing02@gmail.com">kevinxing02@gmail.com</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:lvsiyuan@buaa.edu.cn">lvsiyuan@buaa.edu.cn</a>
   </p>
 
 </div>
