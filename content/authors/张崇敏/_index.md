@@ -41,13 +41,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'ljxxx@buaa.edu.cn'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Thethumbtack
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'ljxxx@buaa.edu.cn'
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/Thethumbtack
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -97,24 +97,28 @@ user_groups:
 <div id="cn" class="tabcontent" style="display:block;">
 
   <p>
-    刘俊希是北京航空航天大学生物医学工程专业的在读本科生。他目前的研究方向是应用机器学习方法，提升脑损伤诊断的准确性与速度，致力于实现碰撞等创伤事件后的快速诊断与评估。<br>
-    除核心研究外，俊希也积极探索3D打印、嵌入式系统开发等不同技术领域。他热衷于融合跨学科知识，以创造富有创新性的解决方案。
+    张崇敏，2024级硕士研究生。
   </p>
 
   <h3>兴趣</h3>
   <ul>
-    <li>大语言模型 (LLM)</li>
-    <li>机器学习</li>
-    <li>数据科学</li>
+    <li>创伤性脑损伤</li>
+    <li>人工智能</li>
   </ul>
 
   <h3>教育经历</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2024至今<br>
+  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2021至2025<br>
+  <span style="color:gray;">北京航空航天大学</span></p>
+  <p><i class="fas fa-graduation-cap"></i> 硕士，生物医学工程，2025至今<br>
   <span style="color:gray;">北京航空航天大学</span></p>
 </div>
 
+  <h3>联系方式</h3>
+  <p>
+    <i class="fas fa-envelope"></i> <a href="mailto:zhangyihan@buaa.edu.cn">zhangyihan@buaa.edu.cn</a>
+  </p>
 
 </div>
 
@@ -122,22 +126,28 @@ user_groups:
 <!-- 英文版本 -->
 <div id="en" class="tabcontent" style="display:none;">
   <p>
-    Junxi Liu is an undergraduate student majoring in Biomedical Engineering at Beihang University. His current research focuses on applying machine learning techniques to enhance the accuracy and speed of brain injury diagnosis, with a particular emphasis on enabling rapid assessment after traumatic impacts such as collisions.<br>
-    Beyond his primary research, Junxi is also actively exploring various interdisciplinary fields, including 3D printing and embedded systems development. He is passionate about leveraging diverse technologies to create innovative solutions.
+    Chongmin Zhang
   </p>
 
   <h3>Interests</h3>
   <ul>
-    <li>Computational Science</li>
-    <li>Sports</li>
+    <li>Traumatic Brain Injury</li>
+    <li>Artificial Intelligence</li>
   </ul>
 
   <h3>Education</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2023-Present<br>
+  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2021-2025<br>
+  <span style="color:gray;">Beihang University</span></p>
+  <p><i class="fas fa-graduation-cap"></i> MSc in Biomedical Engineering, 2025-Present<br>
   <span style="color:gray;">Beihang University</span></p>
 </div>
+
+  <h3>Contact</h3>
+  <p>
+    <i class="fas fa-envelope"></i> <a href="mailto:cmin_zhang@163.com">cmin_zhang@163.com</a>
+  </p>
 
 </div>
 
