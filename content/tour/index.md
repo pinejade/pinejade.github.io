@@ -30,7 +30,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: A Lab dedicated to traumatic brain injury research
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Meet the Team
+          url: ../people/
+      - title: A lab dedicated to traumatic brain injury research
         # content: 'Just opened last month!'
         align: right
         background:
@@ -41,7 +46,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: envelope
           icon_pack: fas
           text: Join Us
           url: ../contact/
