@@ -97,26 +97,30 @@ user_groups:
 <div id="cn" class="tabcontent" style="display:block;">
 
   <p>
-    王阳，2024级博士研究生。
+    王阳，2024级博士研究生。研究方向主要为中低应变率下多稳态超材料结构设计及头部冲击防护应用。
   </p>
 
-  <h3>兴趣</h3>
+  <!-- <h3>兴趣</h3>
   <ul>
-    <li></li>
-  </ul>
+    <li>阅读</li>
+    <li>摄影</li>
+    <li>游泳</li>
+  </ul> -->
 
   <h3>教育经历</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2021至2025<br>
-  <span style="color:gray;">北京航空航天大学</span></p>
-  <p><i class="fas fa-graduation-cap"></i> 硕士，生物医学工程，2025至今<br>
+  <p><i class="fas fa-graduation-cap"></i> 学士，机械设计制造及其自动化，2016至2020<br>
+  <span style="color:gray;">河南科技大学</span></p>
+  <p><i class="fas fa-graduation-cap"></i> 硕士，机械工程，2021至2024<br>
+  <span style="color:gray;">太原理工大学</span></p>
+  <p><i class="fas fa-graduation-cap"></i> 博士，生物医学工程，2024至今<br>
   <span style="color:gray;">北京航空航天大学</span></p>
 </div>
 
   <h3>联系方式</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:zhangyihan@buaa.edu.cn">zhangyihan@buaa.edu.cn</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:by2410213@buaa.edu.cn">by2410213@buaa.edu.cn</a>
   </p>
 
 </div>
@@ -125,26 +129,30 @@ user_groups:
 <!-- 英文版本 -->
 <div id="en" class="tabcontent" style="display:none;">
   <p>
-    Yang Wang
+    Yang Wang is a Ph.D. candidate. His research focuses on design and performance analysis of multi-stable metamaterials under low-to-moderate strain rates for head impact protection.
   </p>
 
-  <h3>Interests</h3>
+  <!-- <h3>Interests</h3>
   <ul>
-    <li></li>
-  </ul>
+    <li>Reading</li>
+    <li>Photography</li>
+    <li>Swimming</li>
+  </ul> -->
 
   <h3>Education</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2021-2025<br>
-  <span style="color:gray;">Beihang University</span></p>
-  <p><i class="fas fa-graduation-cap"></i> MSc in Biomedical Engineering, 2025-Present<br>
+  <p><i class="fas fa-graduation-cap"></i> BSc in Mechanical Engineering and Automation, 2016-2020<br>
+  <span style="color:gray;">Henan University of Science and Technology</span></p>
+  <p><i class="fas fa-graduation-cap"></i> MSc in Mechanical Engineering, 2021-2024<br>
+  <span style="color:gray;">Taiyuan University of Technology</span></p>
+  <p><i class="fas fa-graduation-cap"></i> Ph.D. in Biomedical Engineering, 2024-Present<br>
   <span style="color:gray;">Beihang University</span></p>
 </div>
 
   <h3>Contact</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:cmin_zhang@163.com">cmin_zhang@163.com</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:by2410213@buaa.edu.cn">by2410213@buaa.edu.cn</a>
   </p>
 
 </div>

@@ -97,7 +97,7 @@ user_groups:
 <div id="cn" class="tabcontent" style="display:block;">
 
   <p>
-    张崇敏，2024级硕士研究生。
+    张崇敏，2024级硕士研究生。主要研究方向为冲击中的头部运动学参数评估和深度学习在创伤性脑损伤评估中的应用。
   </p>
 
   <h3>兴趣</h3>
@@ -126,7 +126,7 @@ user_groups:
 <!-- 英文版本 -->
 <div id="en" class="tabcontent" style="display:none;">
   <p>
-    Chongmin Zhang
+    Chongmin Zhang is currently a master degree candidate. Her research focues on the evaluation of head kinematics during impact and the application of deea learning in traumatic brain injury assessment.
   </p>
 
   <h3>Interests</h3>
