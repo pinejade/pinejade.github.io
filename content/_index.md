@@ -9,9 +9,8 @@ sections:
     content:
       slides:
       - title: |
-          👋 Welcome to Yuzhe Lab
-        content: Take a look at what we are working on...
-        
+          👋 欢迎访问Yuzhe Lab
+        content: Take a look at what we are working on...👇
         align: center
         background:
           image:
@@ -30,8 +29,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Meet the Team
+          url: ../People/
+      - title: A lab dedicated to traumatic brain injury research
         align: right
         background:
           image:
@@ -41,7 +44,7 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: envelope
           icon_pack: fas
           text: Join Us
           url: ../contact/

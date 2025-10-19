@@ -97,13 +97,13 @@ user_groups:
 <div id="cn" class="tabcontent" style="display:block;">
 
   <p>
-    郑芷兰，2025届本科生。
+    郑芷兰，北京航空航天大学2021级本科生，曾就读于生物与医学工程学院生物力学与医学人工智能方向。本科期间，她在创伤性脑损伤研究课题组参与了包括啄木鸟碰撞姿态分析在内的相关科研工作。目前，她在瑞典皇家理工学院攻读数据驱动健康硕士学位，研究兴趣主要集中于关于神经系统疾病和脑功能机制的计算生物学建模，为数据驱动医疗的发展提供方法与路径。
   </p>
 
   <h3>兴趣</h3>
   <ul>
-    <li>创伤性脑损伤</li>
-    <li>人工智能</li>
+    <li>神经系统疾病研究</li>
+    <li>计算生物学建模</li>
   </ul>
 
   <h3>教育经历</h3>
@@ -111,8 +111,8 @@ user_groups:
 <div>
   <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2021至2025<br>
   <span style="color:gray;">北京航空航天大学</span></p>
-  <p><i class="fas fa-graduation-cap"></i> 硕士，生物医学工程，2025至今<br>
-  <span style="color:gray;">北京航空航天大学</span></p>
+  <p><i class="fas fa-graduation-cap"></i> 硕士，数据驱动健康，2025至今<br>
+  <span style="color:gray;">瑞典皇家理工学院</span></p>
 </div>
 
   <h3>联系方式</h3>
@@ -126,13 +126,13 @@ user_groups:
 <!-- 英文版本 -->
 <div id="en" class="tabcontent" style="display:none;">
   <p>
-    Zhilan Zheng
+    Zhilan Zheng obtained her Bachelor's degree from Beihang University, where she studied Biomechanics and Medical Artificial Intelligence in the School of Biological Science and Medical Engineering. During her undergraduate studies, she conducted research in the Traumatic Brain Injury Lab, including work on pecking posture analysis in woodpeckers. She is currently pursuing a Master's degree in Data-Driven Health at KTH Royal Institute of Technology. Her research interests focus on computational modeling of neurological diseases and brain function, aiming to advance data-driven approaches in healthcare.
   </p>
 
   <h3>Interests</h3>
   <ul>
-    <li>Traumatic Brain Injury</li>
-    <li>Artificial Intelligence</li>
+    <li>Neurological Diseases Research</li>
+    <li>Computational Model</li>
   </ul>
 
   <h3>Education</h3>
@@ -140,8 +140,8 @@ user_groups:
 <div>
   <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2021-2025<br>
   <span style="color:gray;">Beihang University</span></p>
-  <p><i class="fas fa-graduation-cap"></i> MSc in Biomedical Engineering, 2025-Present<br>
-  <span style="color:gray;">Beihang University</span></p>
+  <p><i class="fas fa-graduation-cap"></i> MSc in Data-Driven Health, 2025-Present<br>
+  <span style="color:gray;">KTH Royal Institute of Technology</span></p>
 </div>
 
   <h3>Contact</h3>
