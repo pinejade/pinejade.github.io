@@ -117,7 +117,7 @@ user_groups:
 
   <h3>联系方式</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:zhangyihan@buaa.edu.cn">zhangyihan@buaa.edu.cn</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:zhilanz@kth.se">zhilanz@kth.se</a>
   </p>
 
 </div>
@@ -146,7 +146,7 @@ user_groups:
 
   <h3>Contact</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:cmin_zhang@163.com">cmin_zhang@163.com</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:zhilanz@kth.se">zhilanz@kth.se</a>
   </p>
 
 </div>
