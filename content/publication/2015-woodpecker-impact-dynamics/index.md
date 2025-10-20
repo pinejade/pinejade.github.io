@@ -26,8 +26,7 @@ abstract: To understand how a woodpecker can accelerate its head to high velocit
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
+tags: ["woodpecker", "impact dynamics", "multi-rigid body", "whipping mechanism", "bio-inspired impact model"]
 featured: true
 image:
   filename: "featured.jpg"
@@ -68,8 +67,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
