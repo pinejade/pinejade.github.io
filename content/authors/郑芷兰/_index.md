@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 郑芷兰
+title: Zhilan Zheng(郑芷兰)
 
 # Full name (for SEO)
-first_name: 芷兰
-last_name: 郑
+first_name: Zhilan
+last_name: Zheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025届本科生
+role: B.S. Graduate, Class of 2025
 
 # Organizations/Affiliations
 organizations:
@@ -88,13 +88,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     郑芷兰，北京航空航天大学2021级本科生，曾就读于生物与医学工程学院生物力学与医学人工智能方向。本科期间，她在创伤性脑损伤研究课题组参与了包括啄木鸟碰撞姿态分析在内的相关科研工作。目前，她在瑞典皇家理工学院攻读数据驱动健康硕士学位，研究兴趣主要集中于关于神经系统疾病和脑功能机制的计算生物学建模，为数据驱动医疗的发展提供方法与路径。
@@ -124,7 +124,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Zhilan Zheng obtained her Bachelor's degree from Beihang University, where she studied Biomechanics and Medical Artificial Intelligence in the School of Biological Science and Medical Engineering. During her undergraduate studies, she conducted research in the Traumatic Brain Injury Lab, including work on pecking posture analysis in woodpeckers. She is currently pursuing a Master's degree in Data-Driven Health at KTH Royal Institute of Technology. Her research interests focus on computational modeling of neurological diseases and brain function, aiming to advance data-driven approaches in healthcare.
   </p>

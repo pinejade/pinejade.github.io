@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 王阳
+title: Yang Wang(王阳)
 
 # Full name (for SEO)
-first_name: 阳
-last_name: 王
+first_name: Yang
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2024级博士研究生
+role: PhD student, Class of 2024
 
 # Organizations/Affiliations
 organizations:
@@ -88,13 +88,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     王阳，2024级博士研究生。研究方向主要为中低应变率下多稳态超材料结构设计及头部冲击防护应用。
@@ -127,7 +127,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Yang Wang is a Ph.D. candidate. His research focuses on design and performance analysis of multi-stable metamaterials under low-to-moderate strain rates for head impact protection.
   </p>

@@ -1,11 +1,11 @@
 ---
 title: "How does a woodpecker work? An impact dynamics approach"
 authors:
-  - "Yuzhe Liu"
-  - "Xinming Qiu"
-  - "Tongxi Yu"
-  - "Jiawei Tao"
-  - "Ze Cheng"
+  - 刘雨喆
+  - Xinming Qiu
+  - Tongxi Yu
+  - Jiawei Tao
+  - Ze Cheng"
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

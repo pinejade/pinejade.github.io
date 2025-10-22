@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 张崇敏
+title: Chongmin Zhang(张崇敏)
 
 # Full name (for SEO)
-first_name: 崇敏
-last_name: 张
+first_name: Chongmin
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025级硕士研究生
+role: M.S. student, Class of 2025
 
 # Organizations/Affiliations
 organizations:
@@ -88,16 +88,16 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
-    张崇敏，2024级硕士研究生。主要研究方向为冲击中的头部运动学参数评估和深度学习在创伤性脑损伤评估中的应用。
+    张崇敏，2025级硕士研究生。主要研究方向为冲击中的头部运动学参数评估和深度学习在创伤性脑损伤评估中的应用。
   </p>
 
   <h3>兴趣</h3>
@@ -124,7 +124,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Chongmin Zhang is currently a master degree candidate. Her research focues on the evaluation of head kinematics during impact and the application of deea learning in traumatic brain injury assessment.
   </p>

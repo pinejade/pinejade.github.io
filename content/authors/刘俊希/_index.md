@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 刘俊希
+title: Junxi Liu(刘俊希)
 
 # Full name (for SEO)
-first_name: 俊希
-last_name: 刘
+first_name: Junxi
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2024级本科生
+role: Class of 2023
 
 # Organizations/Affiliations
 organizations:
@@ -88,13 +88,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     刘俊希是北京航空航天大学生物医学工程专业的在读本科生。他目前的研究方向是应用机器学习方法，提升脑损伤诊断的准确性与速度，致力于实现碰撞等创伤事件后的快速诊断与评估。<br>
@@ -124,7 +124,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Junxi Liu is an undergraduate student majoring in Biomedical Engineering at Beihang University. His current research focuses on applying machine learning techniques to enhance the accuracy and speed of brain injury diagnosis, with a particular emphasis on enabling rapid assessment after traumatic impacts such as collisions.<br><br>
     Beyond his primary research, Junxi is also actively exploring various interdisciplinary fields, including 3D printing and embedded systems development. He is passionate about leveraging diverse technologies to create innovative solutions.

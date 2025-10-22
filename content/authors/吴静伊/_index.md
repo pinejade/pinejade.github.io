@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吴静伊
+title: Jingyi Wu(吴静伊)
 
 # Full name (for SEO)
-first_name: 静伊
-last_name: 吴
+first_name: Jingyi
+last_name: Wu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2023级本科生
+role: Class of 2023
 
 # Organizations/Affiliations
 organizations:
@@ -88,13 +88,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     吴静伊目前就读于北京航空航天大学医学科学与工程学院，主要从事脑损伤及脑形态学方向的研究。她兴趣广泛、思维活跃，现阶段重点探索有限元建模在脑科学研究中的应用。
@@ -124,7 +124,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Jingyi Wu is currently an undergraduate student at the School of Medical Science and Engineering, Beihang University. Her research focuses on brain injury and brain morphology. She has broad interests and an active mindset, and is currently exploring the application of finite element modeling in neuroscience research.
   </p>

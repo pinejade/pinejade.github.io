@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 张艺涵
+title: Yihan Zhang(张艺涵)
 
 # Full name (for SEO)
-first_name: 艺涵
-last_name: 张
+first_name: Yihan
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025级博士研究生
+role: PhD student, Class of 2025
 
 # Organizations/Affiliations
 organizations:
@@ -88,13 +88,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     张艺涵，2025级博士研究生。研究方向主要围绕人体头部有限元模型建模与仿真、损伤预测与防护等。
@@ -125,7 +125,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Yihan Zhang is a Ph.D. candidate. Her research focuses on the modeling and simulation of finite element models for the human head, as well as damage prediction and protection.
   </p>

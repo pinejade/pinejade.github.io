@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 杜箫宇
+title: Xiaoyv Du(杜箫宇)
 
 # Full name (for SEO)
-first_name: 箫宇
-last_name: 杜
+first_name: Xiaoyv
+last_name: Du
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2023级本科生
+role: Class of 2023
 
 # Organizations/Affiliations
 organizations:

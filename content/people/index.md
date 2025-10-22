@@ -11,7 +11,7 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators | 课题组负责人
+          - Principal Investigator | 课题组负责人
           - Researchers | 研究人员
           - Grad Students | 研究生
           - Undergraduate Students | 本科生

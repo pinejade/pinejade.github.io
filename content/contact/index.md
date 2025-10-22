@@ -15,16 +15,16 @@ sections:
       email: yuzheliu@buaa.edu.cn
       # phone: 888 888 88 88
       address:
-        street: 海淀区学院路37号
-        city: 北京
-        region: 中国
+        street: Xueyuan Road 37, Haidian District, Beijing, China (中国北京海淀区学院路37号）
+        # city: 北京
+        # region: 中国
         # postcode: '94305'
         country: 中国
         country_code: CN
       coordinates:
         latitude: '39.981771'
         longitude: '116.347313'
-      directions: 北京航空航天大学学院路校区五号楼
+      directions: Building 5, Beihang University (北京航空航天大学学院路校区五号楼)
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'

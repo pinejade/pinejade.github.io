@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吕思远
+title: Si yuan Lv(吕思远)
 
 # Full name (for SEO)
-first_name: 思远
-last_name: 吕
+first_name: Siyuan
+last_name: Lv
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2024级本科生
+role: Class of 2024
 
 # Organizations/Affiliations
 organizations:
@@ -88,13 +88,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     吕思远，北京航空航天大学生物与医学工程学院本科生，现于本实验室从事运动员大脑损伤相关工作，负责运动员头部冲击实验相关软硬件事务。
@@ -125,7 +125,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Siyuan Lv, an undergraduate student from the School of Biological and Medical Engineering at Beihang University, is currently working in this laboratory on research related to brain injuries in athletes. He is responsible for the software and hardware affairs related to the head impact experiments on athletes.
   </p>

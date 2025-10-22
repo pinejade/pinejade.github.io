@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 邢凯文
+title: Kaiwen Xing(邢凯文)
 
 # Full name (for SEO)
-first_name: 凯文
-last_name: 邢
+first_name: Kaiwen
+last_name: Xing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2025届本科生
+role: B.S. Graduate, Class of 2025
 
 # Organizations/Affiliations
 organizations:
@@ -85,13 +85,13 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     邢凯文现在是一名硕士生。他对人工智能，生物力学和神经科学有很强的兴趣。本科阶段，在刘雨喆教授的指导下，他研究了啄木鸟啄树过程中抵抗创伤性脑损伤的机制。此外，他开发了一智能头盔系统用于实时监测创伤性脑损伤，并提出了基于个体形态差异和冲击因子预测大脑冲击响应的算法。<br>
@@ -124,7 +124,7 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
     Kaiwen Xing is currently a Master's student with strong interests in Artificial Intelligence, Biomechanics, and Neuroscience. During his bachelor's studies under the supervision of Prof. Yuzhe Liu, he investigated the self-resistance mechanisms of woodpecker pecking, revealing natural strategies for protection against Traumatic Brain Injury (TBI). He also developed an intelligent helmet system capable of providing real-time TBI monitoring functions, and proposed an algorithm to predict brain impact responses based on individual morphological differences and impact factors.<br><br>
     He is now pursuing his Master's degree at KTH Royal Institute of Technology in the Innovative Technology for Healthy Living program, continuing his journey to enhance human health and quality of life.

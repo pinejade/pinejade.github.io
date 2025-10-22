@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 刘雨喆
+title: Yuzhe Liu(刘雨喆)
 
 # Full name (for SEO)
-first_name: 雨喆
-last_name: 刘
+first_name: Yuzhe
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 北京航空航天大学教授
+role: Professor of Biomechanics
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators | 课题组负责人
+  - Principal Investigator | 课题组负责人
 ---
 
 <style>
@@ -90,13 +90,44 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
+</div>
+
+<!-- 英文版本 -->
+<div id="en" class="tabcontent" style="display:block;">
+  <p>
+    Yuzhe Liu’s research is dedicated to the biomechanics of traumatic brain impacts (concussion), multimodal characterization of neural injury, and the development of advanced monitoring and protective technologies for the brain. Concussion is characterized by its insidious and latent nature, frequently resulting in delayed or missed diagnoses and, in some cases, progression to chronic traumatic brain injury. Despite its prevalence, the underlying mechanisms remain incompletely understood. Dr. Liu employs integrative approaches that combine mechanics, artificial intelligence, and neuroimaging to investigate the pathophysiological mechanisms of concussion and to develop wearable devices for early warning and injury prevention.<br><br>
+    Dr. Liu received his training under Professor Xinming Qiu at Tsinghua University and Professor Tongxi Yu at the Hong Kong University of Science and Technology, where he focused on biomimetics and impact protection. He subsequently completed postdoctoral training in the laboratories of Professor David B. Camarillo and Professor Gerald G. Grant at Stanford University, specializing in traumatic brain injury research. He is currently a tenure-track Professor in the School of Biological Science and Medical Engineering at Beihang University.
+  </p>
+
+  <h3>Interests</h3>
+  <ul>
+    <li>Traumatic Brain Injury</li>
+    <li>Biomechanics</li>
+    <li>Artificial Intelligence</li>
+    <li>Neuroimaging</li>
+    <li>Kinematics</li>
+  </ul>
+
+<h3>Education</h3>
+<div>
+  <p><i class="fas fa-graduation-cap"></i> BSc in Mechanics Engineering, 2009-2013<br>
+  <span style="color:gray;">Tsinghua University</span></p>
+  <p><i class="fas fa-graduation-cap"></i> Ph.D. in Mechanics, 2013-2018<br>
+  <span style="color:gray;">Tsinghua University</span></p>
+</div>
+
+<h3>Contact</h3>
+  <p>
+    <i class="fas fa-envelope"></i> <a href="mailto:yuzheliu@buaa.edu.cn">yuzheliu@buaa.edu.cn</a>
+  </p>
+
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
     刘雨喆的研究聚焦于大脑冲击损伤（脑震荡）的生物力学机理、神经损伤的多模态表征，以及大脑损伤监测与防护装备的开发。脑震荡具有隐蔽性和潜伏性，常导致诊断延误或漏诊，进而引发慢性创伤性脑损伤等严重后果。然而，其损伤机制至今尚未明晰。刘雨喆的工作旨在结合力学、人工智能与神经影像学等方法，系统揭示脑震荡的神经损伤机制，并研发用于预警与防护的可穿戴设备。<br><br>
@@ -122,38 +153,6 @@ user_groups:
 </div>
 
   <h3>联系方式</h3>
-  <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:yuzheliu@buaa.edu.cn">yuzheliu@buaa.edu.cn</a>
-  </p>
-
-</div>
-
-
-<!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
-  <p>
-    Yuzhe Liu’s research is dedicated to the biomechanics of traumatic brain impacts (concussion), multimodal characterization of neural injury, and the development of advanced monitoring and protective technologies for the brain. Concussion is characterized by its insidious and latent nature, frequently resulting in delayed or missed diagnoses and, in some cases, progression to chronic traumatic brain injury. Despite its prevalence, the underlying mechanisms remain incompletely understood. Dr. Liu employs integrative approaches that combine mechanics, artificial intelligence, and neuroimaging to investigate the pathophysiological mechanisms of concussion and to develop wearable devices for early warning and injury prevention.<br><br>
-    Dr. Liu received his training under Professor Xinming Qiu at Tsinghua University and Professor Tongxi Yu at the Hong Kong University of Science and Technology, where he focused on biomimetics and impact protection. He subsequently completed postdoctoral training in the laboratories of Professor David B. Camarillo and Professor Gerald G. Grant at Stanford University, specializing in traumatic brain injury research. He is currently a tenure-track Professor in the School of Biological Science and Medical Engineering at Beihang University.
-  </p>
-
-  <h3>Interests</h3>
-  <ul>
-    <li>Traumatic Brain Injury</li>
-    <li>Biomechanics</li>
-    <li>Artificial Intelligence</li>
-    <li>Neuroimaging</li>
-    <li>Sports</li>
-  </ul>
-
-<h3>Education</h3>
-<div>
-  <p><i class="fas fa-graduation-cap"></i> BSc in Mechanics Engineering, 2009-2013<br>
-  <span style="color:gray;">Tsinghua University</span></p>
-  <p><i class="fas fa-graduation-cap"></i> Ph.D. in Mechanics, 2013-2018<br>
-  <span style="color:gray;">Tsinghua University</span></p>
-</div>
-
-<h3>Contact</h3>
   <p>
     <i class="fas fa-envelope"></i> <a href="mailto:yuzheliu@buaa.edu.cn">yuzheliu@buaa.edu.cn</a>
   </p>
